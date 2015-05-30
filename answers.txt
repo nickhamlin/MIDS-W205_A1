@@ -1,0 +1,15 @@
+3.
+Output from Running job locally
+
+real	6m26.282s
+user	3m34.804s
+sys	0m6.861s
+
+EMR Version
+
+real	18m16.609s
+user	0m2.337s
+sys	0m0.664s
+
+4. There are 2042 address tags
+5. Yes, both versions calculate the same number of address tags
